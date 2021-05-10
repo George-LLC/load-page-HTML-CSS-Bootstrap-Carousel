@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 3" width="16" height="3">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.4;fill: #000000 } 
+	</style>
+	<g id="Services">
+		<g id="Part-2">
+			<g id="Know More copy 2">
+				<g id="arrow">
+					<path id="Rectangle 1 copy" class="shp0" d="M0 0.65L16 0.65L16 2.04L0 2.04L0 0.65Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
